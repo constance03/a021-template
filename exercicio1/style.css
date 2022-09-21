@@ -1,0 +1,29 @@
+/* mudando a cor da header e do titulo */
+header {
+    background-color: blue;
+}
+#titulo-importante {
+    color: white;
+}
+
+/* mudando a cor do sub-titulo */
+.sub-titulo {
+    background-color: yellow;
+}
+
+/* mudando a cor da section e do titulo da section */
+section {
+    background-color: green;
+}
+.titulo-secao {
+    color: white;
+}
+
+/* mudando a cor do rodapé e do titulo dele */
+footer {
+    background-color: black;
+}
+.titulo-pouco-importante {
+    color: white;
+}
+
